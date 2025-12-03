@@ -3,6 +3,8 @@
 InsightX is an industry-grade analytics dashboard designed to transform messy, unstructured server logs into actionable business intelligence. It automates data cleaning and uses Machine Learning to forecast sales and segment high-value customers.
 
 ![Dashboard Preview](heatmap.png)
+![Dashboard Preview](bargraphtop10.png)
+![Dashboard Preview](30dayML.png)
 
 📌 Project Overview
 

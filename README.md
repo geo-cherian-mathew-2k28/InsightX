@@ -1,4 +1,4 @@
-<h1>InsightX</h1>
+<h1 align="center">InsightX</h1>
 
 InsightX is an industry-grade analytics dashboard designed to transform messy, unstructured server logs into actionable business intelligence. It automates data cleaning and uses Machine Learning to forecast sales and segment high-value customers.
 

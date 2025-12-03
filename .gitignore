@@ -1,0 +1,29 @@
+Python artifacts
+
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual environments
+
+venv/
+env/
+.env
+
+IDE settings (optional but recommended)
+
+.vscode/
+.idea/
+
+OS generated files
+
+.DS_Store
+Thumbs.db
+
+NOTE: Usually we ignore data files, but for this Hackathon,
+
+you might want to upload it if it's under 100MB.
+
+Uncomment the line below to IGNORE the excel file:
+
+*.xlsx
